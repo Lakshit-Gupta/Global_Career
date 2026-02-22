@@ -62,8 +62,8 @@ Apply to jobs anywhere in the world with AI assistance that handles translations
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/globalhire-ai.git
-   cd globalhire-ai
+   git clone [https://github.com/Lakshit-Gupta/Global_Career/.git](https://github.com/Lakshit-Gupta/Global_Career.git)
+   cd Global_Career
    ```
 
 2. **Install dependencies**
